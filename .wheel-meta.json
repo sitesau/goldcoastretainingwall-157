@@ -1,0 +1,22 @@
+{
+  "wheel_id": 526,
+  "structure": "umbrella",
+  "slug": "goldcoastretainingwall-157",
+  "project": "retaining-walls-gold-coast-pros-and-cons-bca1c35a8f1981874917f0",
+  "parent_t1_ref": "goldcoastretainingwall-012",
+  "node_role": "buffer",
+  "money_target": "goldcoastretainingwall.au",
+  "primary_kw": "retaining walls gold coast pros and cons",
+  "intended_url": "http://retaining-walls-gold-coast-pros-and-cons-bca1c35a8f1981874917f0.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "bdc8779e91232ac0",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/goldcoastretainingwall-012/",
+      "anchor": "Retaining Walls Gold Coast: A Site-First Planning Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
